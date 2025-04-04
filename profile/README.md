@@ -6,8 +6,8 @@
 
 Somos dos estudiantes avanzados de Ingeniería en Sistemas que decidimos emprender este camino para aplicar nuestros conocimientos al servicio de nuestra comunidad:
 
-- **Enzo Coschiza**  
-- **Irala Agustín**
+- **Enzo Coschiza** – [@EnzoCoschiza](https://github.com/EnzoCoschiza)  
+- **Irala Agustín** – [@aguuuss](https://github.com/aguuuss)
 
 Nos une la pasión por el código, el diseño funcional y el deseo de construir herramientas útiles que generen un impacto positivo.
 
@@ -29,7 +29,7 @@ Creemos en el software como herramienta de transformación. Apostamos por el des
 
 ¿Querés trabajar con nosotros, colaborar o simplemente charlar de código?
 
-- ✉️ [runacode0@gmail.com] 
+- ✉️ [TuEmail@ejemplo.com] (reemplazar por uno real)
 - 📍 Resistencia, Chaco - Argentina
 
 ---
