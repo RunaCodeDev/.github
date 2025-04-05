@@ -29,7 +29,7 @@ Creemos en el software como herramienta de transformación. Apostamos por el des
 
 ¿Querés trabajar con nosotros, colaborar o simplemente charlar de código?
 
-- ✉️ [runacode0@gmail.com] (reemplazar por uno real)
+- ✉️ [runacode0@gmail.com] 
 - 📍 Resistencia, Chaco - Argentina
 
 ---
