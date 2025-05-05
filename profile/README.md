@@ -8,6 +8,7 @@ Somos dos estudiantes avanzados de Ingeniería en Sistemas que decidimos emprend
 
 - **Enzo Coschiza** – [@EnzoCoschiza](https://github.com/EnzoCoschiza)  
 - **Irala Agustín** – [@aguuuss](https://github.com/aguuuss)
+- **Dylan Tymkiw**  - [@tymkiwdylan](https://github.com/tymkiwdylan)
 
 Nos une la pasión por el código, el diseño funcional y el deseo de construir herramientas útiles que generen un impacto positivo.
 
