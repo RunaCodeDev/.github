@@ -4,11 +4,17 @@
 
 ## 👥 ¿Quiénes somos?
 
-Somos dos estudiantes avanzados de Ingeniería en Sistemas que decidimos emprender este camino para aplicar nuestros conocimientos al servicio de nuestra comunidad:
+Somos tres desarrolladores de Chaco con formación en Ingeniería en Sistemas y una visión integral del desarrollo de software. Más allá del código, nos involucramos en todas las etapas del proceso: desde el análisis y diseño, hasta la implementación, documentación y soporte. Nos une la pasión por la tecnología, la resolución de problemas y el deseo de generar impacto real con cada solución que creamos.
 
-- **Enzo Coschiza** – [@EnzoCoschiza](https://github.com/EnzoCoschiza)  
-- **Irala Agustín** – [@aguuuss](https://github.com/aguuuss)
-- **Dylan Tymkiw**  - [@tymkiwdylan](https://github.com/tymkiwdylan)
+Enzo Coschiza – @EnzoCoschiza
+
+Irala Agustín – @aguuuss
+
+Dylan Tymkiw – @tymkiwdylan
+
+Como equipo, combinamos habilidades técnicas, criterio analítico y una fuerte orientación al usuario para construir herramientas útiles, simples y sostenibles.
+
+
 
 Nos une la pasión por el código, el diseño funcional y el deseo de construir herramientas útiles que generen un impacto positivo.
 
@@ -30,7 +36,7 @@ Creemos en el software como herramienta de transformación. Apostamos por el des
 
 ¿Querés trabajar con nosotros, colaborar o simplemente charlar de código?
 
-- ✉️ [runacode0@gmail.com] 
+- ✉️ [runacode@runa-code.com] 
 - 📍 Resistencia, Chaco - Argentina
 
 ---
